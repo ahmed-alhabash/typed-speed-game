@@ -1,0 +1,463 @@
+@media(max-width:557px){
+  .loader{
+    top: 37%;
+    left: 37%;
+  }
+  .Choosealanguage .bord{
+    width: 320px;
+  }
+
+.game .game-box .nav .logo img{
+display: none;}
+.over-laye{
+display: none;
+}.game .game-box{
+  width: 100%;
+  background: #000000c2;
+}.game .game-box .nav li{
+  padding: 37px 96px;
+}.ariafiled .word-show{
+font-size: 56px;
+background: gold;
+border-radius: 50%;
+width: 143px;
+height: 143px;
+line-height: 123px;
+}.time_left{
+  position: absolute;
+  top: 47%;
+  left: 77px;
+  padding: 11px;
+  font-size: 23px;
+}
+.ariafiled #input{
+width: 63%;
+}.reloud{
+top: 46%;
+left: 84%;
+}
+/* tow page html */
+.instructions .text{
+text-align: left;
+padding: 12px 0;
+line-height: 37px;
+font-size: 16px;
+}
+/* tow page html */
+/* three page html */
+.search .ser{
+top: 432px;
+left: 14px;
+}.search .inp{
+width: 100%; 
+}
+.transform .icon i{
+top: 6px;
+left: 24px;
+}.bourd{
+top: 49px;
+left: 3px;
+}
+/* three page html */
+
+
+/* four advanced mode  */
+.box-show{
+width: 100%;
+left: 0;
+top: 45px;
+height: 171px;
+color: white;
+font-weight: 700;
+}
+.circle-new .smoll-circle{
+top: 66%;
+left: 0%;
+}
+.circle-new .smoll-circle-tow{
+top: 66%;
+left: 27%;
+}
+.circle-new .smoll-circle-three{
+top: 66%;
+left: 54%;
+}
+.circle-new .smoll-circle-four{
+top: 66%;
+left: 80%;
+}
+.box-show {
+width: 100%;
+left: 0;
+top: -1px;
+height: 316px;
+color: #ffeb3b;
+font-weight: 700;
+font-size: 16px;
+padding: 15px 8px 15px 8px;
+}
+.wright-code{
+  top: 45%;
+  left: 3%;
+  width: 94%;
+  z-index: 2;
+}
+.circle-new .smoll-circle  {
+  top: 60%;
+  left: 2%;
+}
+.circle-new .smoll-circle-tow {
+  top: 60%;
+  left: 69%;
+}
+
+.circle-new .smoll-circle-three {
+  top: 84%;
+  left: 1%;
+} 
+
+.circle-new .smoll-circle-four{
+  top: 84%;
+  left: 69%;
+}
+.relouded{
+  top: 68%;
+  left: 38%;
+}
+
+.Choosealanguage .show i {
+left: 42%;
+}
+.resoluts .x{
+top: 58%;
+left: 2%;
+width: 95%;
+}
+
+.resoluts .y{
+top: 4%;
+left: 2%;
+width: 24px;
+height: 57%;
+}
+.resoluts .a {
+  position: absolute;
+  top: 64%;
+  left: 13%;
+  font-size: 16px;
+  color: #ffffff94;}
+.resoluts .a .intro{    
+  bottom: 282%;
+  left: 10px;
+  width: 25px;}
+.resoluts .b{top: 64%;left: 30%;font-size: 16px;}
+.resoluts .b .intro-tow{position: absolute;bottom: 282%;left: 9px;width: 25px;}
+.resoluts .c{top: 64%;left: 48%;font-size: 16px;}
+.resoluts .c .intro-three{bottom: 279%;left: 14px;width: 25px;}
+.resoluts .d{top: 64%;left: 74%;font-size: 16px;}
+.resoluts .d .intro-four{bottom: 276%;left: 9px;width: 25px;}
+.btns{top: 36%;left:53% ;}
+
+/* four advanced mode  */
+/* arrbic mobile start */
+.advanced-arbic .card-show{
+    width: 100%;
+    left: 0;
+    top: 0px;
+    height: 224px;
+    color: #ffeb3b;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px 8px 15px 8px;
+}
+.advanced-arbic .one{
+  top: 58%;
+  left: 1%;
+  width: 123px;
+}
+
+.advanced-arbic .keyarray{   
+  top: 36%;
+  left: 0;
+  width: 100%;
+}
+.advanced-arbic .circles{
+  top: 69%;
+  left: 37%;
+}
+.advanced-arbic .tow{    
+  top: 78%;
+  left: 1%;
+  width: 120px;
+}
+.advanced-arbic .three{    
+  top: 78%;
+  left: 68%;
+  width: 120px;
+
+}
+.advanced-arbic .four{    
+  top: 59%;
+  left: 68%;
+  width: 120px;
+}
+
+/* arrbic mobile  ends */
+/* ENGLISH MOBILE  */
+.resolutsEnglish .yenglish{
+top: 4%;
+left: 2%;
+width: 24px;
+height: 57%;
+}
+.resolutsEnglish .xenglish{
+top: 58%;
+left: 2%;
+width: 95%;
+}
+.resolutsEnglish .aanglish{
+top: 64%;left: 12%;font-size: 16px;
+}
+.resolutsEnglish .benglish{
+top: 64%;
+left: 31%;
+font-size: 16px;
+}
+.intro-towenglis{
+bottom: 106px;
+}
+.resolutsEnglish .cenglish{
+bottom: 105px;
+}
+.resolutsEnglish .cenglish{
+top: 64%;
+left: 56%;
+font-size: 16px;
+}
+.intro-three-englis{
+  bottom: 288px;
+}
+@media (max-width :375px) {
+  .intro-three-englis{
+    bottom: 152%;
+  }
+}
+@media (max-width :360px) {
+  .resoluts .d .intro-four{
+    bottom: 228%;
+
+  }
+}
+.resolutsEnglish .denglish{
+top: 64%;
+left: 77%;
+font-size: 16px;
+}
+/* ENGLISH MOBILE  */
+/* video */
+
+#video {
+width: 100%;
+}
+/* video */
+
+}
+@media(min-width:558px) and (max-width:768px){
+ /* main screen start */
+ .game .game-box .nav .logo img,
+ .over-laye .title{
+    display: none;
+ }
+ .game .game-box{
+    width: 100%;
+ }
+ .nav{
+    position: absolute;
+    top: 15%;
+    left: 40%;
+    line-height: 81px;
+ }
+ .over-laye{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    position: absolute;
+    top: 1px;
+    left: 0;
+ }
+ .game .game-box .nav li:hover{
+   color: gold;
+   background: none;
+ }
+
+ /* main screen end */
+    /* advanced english mood start  */
+    .box-show{
+        font-size: 19px;
+        height: 343px;
+    }
+    .circle-new .smoll-circle-tow{
+        width: 117px;
+        top: 79%;
+        left: 17%;
+    }.circle-new .smoll-circle-three{
+        width: 120px;
+        top: 79%;
+        left: 64%;
+    }.circle-new .smoll-circle-four {
+    width: 117px;
+    }.relouded {
+        top: 67%;
+    right: 42%;
+    }
+     /* advanced english mood end */
+       /* advanced arbic mood start */
+       .advanced-arbic .card-show{
+        font-size: 19px;
+        height: 272px;
+       }
+       .advanced-arbic .one{
+        width: 123px;
+        top: 56%;
+        left: 18%;
+       }
+       .advanced-arbic .tow{
+        Width: 120px;
+        top: 82%;
+        left: 17%;
+       }
+       .advanced-arbic .four{
+        width: 120px;
+        top: 82%;
+        left: 63%;
+       }
+       .advanced-arbic .three{
+        width: 120px;
+        top: 56%;
+        left: 64%;
+       }
+       .advanced-arbic .circles{
+        top: 71%;
+        right: 45%;
+       }
+       /* advanced arbic mood end */
+}
+
+@media(min-width:768px) and (max-width:991px){
+ /* main screen start */
+.over-laye .title{
+   text-align: center;
+}
+.over-laye .title h2{
+    margin-left: -62px;
+}
+ /* main screen end */
+  /* advanced arbic mood start */
+  .advanced-arbic .card-show{
+    height: 416px;
+  }
+  .advanced-arbic .keyarray{
+    top: 55%;
+  }
+  .advanced-arbic .circles{
+    width: 73px;
+    height: 73px;
+    top: 55%;
+    right: 14%;
+    background: #ffffff40;
+    line-height: 75px;
+  }
+  .advanced-arbic .one{
+    width: 122px;
+    top: 3%;
+    left: 1%;
+  }
+  .advanced-arbic .tow{
+    width: 122px;
+    top: 19%;
+    left: 1%;
+  }
+  .advanced-arbic .three{
+    width: 122px;
+    top: 35%;
+    left: 1%;
+  }
+  .advanced-arbic .four{
+    width: 122px;
+    top: 51%;
+    left: 1%;
+  }
+  /* advanced arbic mood end */
+
+
+      /* advanced english mood start */
+.box-show {font-size: 25px;height: 343px;}
+.circle-new .smoll-circle{top:3%;
+left: 1%;}
+.circle-new .smoll-circle-tow{    top: 19%;
+left: 1%;
+width: 117px;}
+.circle-new .smoll-circle-three{
+top: 35%;
+left: 1%;
+}
+.circle-new .smoll-circle-four{
+top: 51%;
+left: 1%;
+width: 117px;
+}
+.relouded {
+width: 73px;
+height: 71px;
+top: 55%;
+right: 14%;
+background: #ffffff52;
+line-height: 73px;
+}
+.wright-code{
+top: 55%;
+}
+  /* advanced english mood end */
+}
+@media(min-width:991px) and (max-width:1199px){
+    /* main screen start  */
+.over-laye .title p {
+text-align: left;
+}
+.over-laye .title h2{
+margin-left: 20px; 
+}
+ /* main screen end  */
+  /* advanced english mood start */
+.circle-new .smoll-circle{
+left: 18%;
+}.circle-new .smoll-circle-four{
+left: 61%;
+}.circle-new .smoll-circle-three{
+left: 47%;
+}
+.relouded {
+    right: 159px;
+}
+  /* advanced english mood end */
+
+  /* advanced arbic mood start */
+  .advanced-arbic .circles{
+    right: 14%;
+}
+.advanced-arbic .tow{
+    left: 33%;
+}
+.advanced-arbic .three {
+left: 48%;
+}
+.advanced-arbic .four {
+left: 62%;
+}
+
+  /* advanced arbic mood end */
+
+}
+@media(min-width:1200px){
+
+}
